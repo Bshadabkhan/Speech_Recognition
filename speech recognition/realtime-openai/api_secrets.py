@@ -1,0 +1,1 @@
+API_KEY_ASSEMBLYAI = "Assembly_ai_api_key"
